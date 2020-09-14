@@ -1,0 +1,22 @@
+Topics to be addressed in RPLv2
+
+Source: https://mailarchive.ietf.org/arch/msg/roll/hMUjtgxjO5aA7fwaSXXhwqWTlIE/
+
+https://mailarchive.ietf.org/arch/msg/roll/Sw3XbEaWe_AssG6cGClQaZz43gc/
+
+
+1. Use of revised Option Type (0x23) in RPI ... (Obsolete use of 0x63 RPI Option Type value).
+
+2. Mandating the use of 6LoRH (RFC 8138) , turn-on
+
+3.  MOPex
+
+4. Support for Ext Control Options. (Allows Backward compatibility for new extns... part for same mopex draft)
+
+5. Support for Capabilities. (Enables backward compatibility, allows incremental feature support)
+
+6) P-DAO for SDN-RPL and
+
+7) AODV-RPL.
+
+RPL Observations issues 
